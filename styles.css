@@ -1,0 +1,64 @@
+/* add your CSS here */
+/* *{
+    margin: 0 ;
+    padding:0;
+    box-sizing: border-box;
+
+}
+body{
+    font-size: 16px;
+    margin: 10px auto;
+    padding: 0 50px 0 50px;
+    line-height: 1.5;
+    
+    
+}
+
+.card{
+    width: 330px;
+    border: 1px solid #DCDCDC;
+    box-shadow: 6px 6px 1px 0px #EBEBEB;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: .8px;
+    margin: 0 auto;
+    border-radius: 10px;
+   }
+
+
+h3{
+    margin:10px 0 10px 0;
+}
+
+span{
+    font-weight: bold;
+}
+
+ul{
+    list-style: none;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.panda-img{
+    width: 300px;
+    height: 200px;
+    padding-bottom: 10px; 
+}
+
+.fact{
+    font-style: italic;
+}
+
+
+
+.main-content{
+    border: 1px solid grey;
+	margin: 15px 2px;
+    padding: 10px;
+}
+
+p{
+    margin-bottom: 10px;
+} */
+

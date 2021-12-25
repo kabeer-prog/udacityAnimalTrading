@@ -2,6 +2,8 @@
 Animal Trading Cards Project for Udacity's Web Nanodegree Programs.
 
 
+
+
 This is a solution to the Udacity CSS Project. Udacity challenges help you improve your coding skills by building realistic projects.
 This is a simple appproach to test CSS knowledge
 Table of contents
